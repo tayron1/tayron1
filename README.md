@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tayron</h1>
-<h3 align="center">Í'm just another 14 Year old German NodeJS Developer and Crackhead</h3>
+<h3 align="center">I'm just another 14 Year old German NodeJS Developer and Crackhead</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tayron1" alt="tayron1" /> </p>
 
 ---
 
@@ -68,6 +67,7 @@
 
 ---
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tayron1" alt="tayron1" /> </p>
 
 
 [website]: https://example.com
