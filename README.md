@@ -4,7 +4,7 @@
 
 ## I'm just another 14 Year old Crackhead Dev
 
-- 🔭 I’m currently working on [Discord Bot Labs][https://bots.discordlabs.org]!
+- 🔭 I’m currently working on [Discord Bot Labs][botlabs]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -35,3 +35,4 @@
 [twitter]: https://twitter.com/tayron_531
 [youtube]: https://www.youtube.com/tayron531
 [instagram]: https://www.instagram.com/t_rex531/
+[botlabs]: https://bots.discordlabs.org
