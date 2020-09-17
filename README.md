@@ -31,11 +31,16 @@
 
 <br>
 <br>
+### Youtube Stuff
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+➡️ [more videos...](https://youtube.com/tayron531)
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [send helb](https://dev.to/tayron1/send-helb-46h)
 <!-- BLOG-POST-LIST:END -->
+➡️ [more blog posts...](https://dev.to/tayron1)
 
 [website]: https://example.com
 [twitter]: https://twitter.com/tayron_531
