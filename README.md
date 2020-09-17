@@ -29,7 +29,12 @@
 <img align="left" alt="CSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
 
 
+<br>
+<br>
 
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [website]: https://example.com
 [twitter]: https://twitter.com/tayron_531
