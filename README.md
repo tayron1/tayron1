@@ -32,6 +32,8 @@
 <br>
 <br>
 
+---
+
 ### Youtube Stuff
 <!-- YOUTUBE:START -->
 - [The Drip finally stops....](https://www.youtube.com/watch?v=NkQ9K7FekXw)
@@ -41,6 +43,8 @@
 - [UPBEAT LIVE ON AIR🔴!!! | 🔴 LIVE 🔴 | [HD] [GER/EN] | #roadto145subs](https://www.youtube.com/watch?v=rezfTTuy50A)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://youtube.com/tayron531)
+
+---
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
