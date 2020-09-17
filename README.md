@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Little Studios](https://discord.gg/XXpCb4J)
 
-- 🌱 I’m currently learning **everything that i can cuz why not**
+- 🔭 I’m currently working on [Discord Bot Labs](https://bots.discordlabs.org) too
 
-- 🔭 I’m currently working on [Discord Bot Labs](https://bots.discordlabs.org)
+- 🌱 I’m currently learning **everything that i can cuz why not**
 
 - 🤝 I’m looking for help with [Little Studios](https://discord.gg/XXpCb4J)
 
