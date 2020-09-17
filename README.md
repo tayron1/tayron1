@@ -58,6 +58,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ello World](https://dev.to/tayron1/ello-world-13a6)
 - [send helb](https://dev.to/tayron1/send-helb-46h)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://dev.to/tayron1)
