@@ -4,7 +4,7 @@
 
 ## I'm just another 14 Year old Crackhead Dev
 
-- 🔭 I’m currently working on [Discord Bot Labs]!
+- 🔭 I’m currently working on [Discord Bot Labs][https://bots.discordlabs.org]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
