@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋, I'm Tayron</h1>
 <h3 align="center">I'm just another 14 Year old German NodeJS Developer and Crackhead</h3>
 
+### Website and Mail
+
+I now have my own Website! Check it out [here](https://tayron.tk)
+You can contact me via mail now too! Just send a mail to: hi@tayron.tk
 
 ---
 
-- 🔭 I’m currently working on [Little Studios](https://littlestudios.tk)
+- 🔭 I’m currently working on [Little Studios](https://little-studios.tech)
 
 - 🔭 I’m currently working on [Discord Bot Labs](https://bots.discordlabs.org) too
 
 - 🌱 I’m currently learning **everything that i can cuz why not**
 
-- 🤝 I’m looking for help with [Little Studios](https://littlestudios.tk)
+- 🤝 I’m looking for help with [Little Studios](https://little-studios.tech)
 
 - 👨‍💻 All of my projects are available at [https://github.com/tayron1?tab=repositories](https://github.com/tayron1?tab=repositories)
 
