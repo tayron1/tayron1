@@ -3,7 +3,7 @@
 
 ### Website and Mail
 
-I now have my own Website! Check it out [here](https://tayron.tk)
+I now have my own Website! Check it out [here](https://tayron.tk) <br>
 You can contact me via mail now too! Just send a mail to: hi@tayron.tk
 
 ---
