@@ -22,7 +22,7 @@ You can contact me via mail now too! Just send a mail to: hi@tayron.tk
 
 - 💬 Ask me about **everything you want i'm bored**
 
-- 📫 How to reach me **marztayron@gmail.com or on Discord Tayron#0001**
+- 📫 How to reach me hi@tayron.tk
 
 - ⚡ Fun fact **i'm bored 24/7 and like memes**
 
