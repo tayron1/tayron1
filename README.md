@@ -12,7 +12,7 @@ You can contact me via mail now too! Just send a mail to: hi@tayron.tk
 
 - 🔭 I’m currently working on [Discord Bot Labs](https://bots.discordlabs.org) too
 
-- 🌱 I’m currently learning **everything that i can cuz why not**
+- 🌱 I’m currently learning **everything that i want cuz why not**
 
 - 🤝 I’m looking for help with [Little Studios](https://little-studios.tech)
 
