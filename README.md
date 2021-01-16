@@ -63,11 +63,11 @@ You can contact me via mail now too! Just send a mail to: hi@tayron.tk
 
 ### Youtube Stuff
 <!-- YOUTUBE:START -->
+- [DISCORD Server BEWERTEN!! ERSTER UPLOAD nach MONATEN!](https://www.youtube.com/watch?v=pQmHFaZv0lw)
 - [The Drip finally stops....](https://www.youtube.com/watch?v=NkQ9K7FekXw)
 - [UpBeat BEHIND THE SCENES🔴!!! | 🔴 LIVE 🔴 | [HD] [GER/EN] | #roadto145subs](https://www.youtube.com/watch?v=xoK4V1SpTg8)
 - [UpBeatRadio ON AIR🔴!!! | 🔴 LIVE 🔴 | [HD] [GER/EN] | #roadto145subs](https://www.youtube.com/watch?v=SUKnJCWsLvQ)
 - [Podcast - Rassismus](https://www.youtube.com/watch?v=mVlrienU73k)
-- [UPBEAT LIVE ON AIR🔴!!! | 🔴 LIVE 🔴 | [HD] [GER/EN] | #roadto145subs](https://www.youtube.com/watch?v=rezfTTuy50A)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://youtube.com/tayron531)
 
