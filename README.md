@@ -63,11 +63,11 @@ You can contact me via mail now too! Just send a mail to: hi@tayron.tk
 
 ### Youtube Stuff
 <!-- YOUTUBE:START -->
+- [Chill in the Rain - Tayron + Chill with the Vinyl - Tayron | HD Visualizer | Free to Use | Download](https://www.youtube.com/watch?v=JZ0dQvdFLJE)
 - [STICKER in DISCORD NUTZEN!!! Tutorial! 2021 WORKING!! DE/GER](https://www.youtube.com/watch?v=oii9nkP7-QU)
 - [DISCORD Server BEWERTEN!! ERSTER UPLOAD nach MONATEN!](https://www.youtube.com/watch?v=pQmHFaZv0lw)
 - [The Drip finally stops....](https://www.youtube.com/watch?v=NkQ9K7FekXw)
 - [UpBeat BEHIND THE SCENES🔴!!! | 🔴 LIVE 🔴 | [HD] [GER/EN] | #roadto145subs](https://www.youtube.com/watch?v=xoK4V1SpTg8)
-- [UpBeatRadio ON AIR🔴!!! | 🔴 LIVE 🔴 | [HD] [GER/EN] | #roadto145subs](https://www.youtube.com/watch?v=SUKnJCWsLvQ)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://youtube.com/tayron531)
 
