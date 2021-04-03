@@ -63,11 +63,11 @@ You can contact me via mail now too! Just send a mail to: hi@tayron.tk
 
 ### Youtube Stuff
 <!-- YOUTUBE:START -->
+- [Discord EXPERIMENTS Tutorial 2021 UPDATED | FULL-HD | DE/GER](https://www.youtube.com/watch?v=P91Sd5ZpwuQ)
 - [SAVE DISCORD NOW!! BEFORE ITS TOO LATE!!!](https://www.youtube.com/watch?v=8f4SlJ_Mc1A)
 - [Chill in the Rain - Tayron + Chill with the Vinyl - Tayron | HD Visualizer | Free to Use | Download](https://www.youtube.com/watch?v=JZ0dQvdFLJE)
 - [STICKER in DISCORD NUTZEN!!! Tutorial! 2021 WORKING!! DE/GER](https://www.youtube.com/watch?v=oii9nkP7-QU)
 - [DISCORD Server BEWERTEN!! ERSTER UPLOAD nach MONATEN!](https://www.youtube.com/watch?v=pQmHFaZv0lw)
-- [The Drip finally stops....](https://www.youtube.com/watch?v=NkQ9K7FekXw)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://youtube.com/tayron531)
 
