@@ -22,7 +22,7 @@ You can contact me via mail now too! Just send a mail to: mail@tayron.gq
 
 - 💬 Ask me about **everything you want i'm bored**
 
-- 📫 How to reach me hi@tayron.tk
+- 📫 How to reach me mail@tayron.gq
 
 - ⚡ Fun fact **i'm bored 24/7 and like memes**
 
