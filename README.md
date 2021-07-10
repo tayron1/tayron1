@@ -63,7 +63,7 @@ You can contact me via mail now too! Just send a mail to: mail@tayron.gq
 
 ### Youtube Stuff
 <!-- YOUTUBE:START -->
-- [🔴 FINALLLY LIVE 🔴 | GER/ENG](https://www.youtube.com/watch?v=Gg41RX-wnHU)
+- [🔴 FINALLLY LIVE 🔴 | GER/ENG | PLAYING ETS2! 🔴](https://www.youtube.com/watch?v=Gg41RX-wnHU)
 - [In case i dont see ya....](https://www.youtube.com/watch?v=YjrCeLMR5iY)
 - [The Drip finally stops... [REMASTERED]](https://www.youtube.com/watch?v=AuMbHBFt3DI)
 - [Discord EXPERIMENTS Tutorial 2021 UPDATED | FULL-HD | DE/GER](https://www.youtube.com/watch?v=P91Sd5ZpwuQ)
